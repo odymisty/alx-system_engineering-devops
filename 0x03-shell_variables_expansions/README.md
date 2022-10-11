@@ -1,1 +1,1 @@
-This is a readme for Shell Expansion
+This is a readme for shell expansion
